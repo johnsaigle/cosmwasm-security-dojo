@@ -1,3 +1,14 @@
+My solutions for the dojo challenges are in `<challenge-path>/src/tests/poc.rs`
+
+Progress:
+- [x] 02
+- [ ] 03
+- [ ] 04
+- [ ] 05
+
+_I saw the solution for 01 because I found the Medium write-up before I found this repo.
+---
+
 # The CosmWasm Security Dojo :japanese_castle:
 
 Welcome to **[Oak Security](https://oaksecurity.io)'s CosmWasm Security Dojo** :japanese_castle:, where all apprentices studying CosmWasm smart contracts are welcome :cyclone:. This Dojo teaches common security vulnerabilities in CosmWasm smart contracts.
